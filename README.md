@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá mundo 👋, meu nome é Luis! 
+Desenvolvedor Python-Flask
 
-<!--
-**Luis-Rossi/Luis-Rossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Atualmente estou focado em:
+- **Refatorar** o código do TCC - [**software de gestão Sofisticar**](https://github.com/Luis-Rossi/Sofisticar)
+- **Desenvolver** alguns projetos pessoais para estudo:
+  - Pokedex usando API
+  - Gerador de orçamentos para marcenaria
+  - Software para controle financeiro
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### E aprofundando estudos sobre:
+<div>
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />        
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />        
+</div>
