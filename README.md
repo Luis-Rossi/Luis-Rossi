@@ -3,12 +3,11 @@ Desenvolvedor Python-Flask, apaixonado por tecnologia!
 
 #### ⭐ Atualmente estou focado em:
 - **Refatorar** o código do meu TCC - [**software de gestão Sofisticar**](https://github.com/Luis-Rossi/Sofisticar)
-- **Desenvolver** alguns projetos pessoais para estudo:
-  - Pokedex usando API (HTML, CSS E JS)
-  - Página de login com autenticação (PYTHON + FLASK)
-  - Reprodução da página do Spotify (HTML, CSS E JS)
+- **Desenvolver** sites de clientes (contratação freelancer):
+  - [**Clementec Sistemas Integrados de Segurança**](https://github.com/Luis-Rossi/Clementec)
+  - [**Zibra Engenharia**](https://github.com/Luis-Rossi/zibra)
 
-#### 💻 E aprofundando meus conhecimentos em:
+#### 💻 Também aprofundando meus conhecimentos em:
 <div style="display: inline">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
